@@ -1,3 +1,10 @@
+# NOTE
+
+This repo is for use by Identity while we transition legacy login flows onto our new SSO platform. This fork will be deleted when Identity no longer needs to maintain the legacy PHP-generated `prodigyweb` cookie.
+
+Please don't consume this repo or commit any new code to it unless aboslutely necessary, and if you do please let us know in `#identity` on Slack.
+
+
 # Ruby PHP Serializer
 
 This module provides two methods: `PHP.serialize` and `PHP.unserialize`,
